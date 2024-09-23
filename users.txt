@@ -1,0 +1,22 @@
+[
+  {
+    "name": "TUSHAR TOMAR",
+    "email": "ty8749@srmist.edu.in",
+    "password": "Mybikerace2@"
+  },
+  {
+    "name": "MUKUL NAYAK",
+    "email": "m@gmail.com",
+    "password": "mmm"
+  },
+  {
+    "name": "ANSH JAIN",
+    "email": "a@gmail.com",
+    "password": "aaa"
+  },
+  {
+    "name": "TUSHAR TOMAR",
+    "email": "tushartomar.10747@gmail.com",
+    "password": "Mybikerace2@"
+  }
+]
